@@ -31,16 +31,16 @@
                 <a href="index.php" onclick = $("#menu-close").click(); >Home</a>
             </li>
             <li>
-                <a href="page1.php" onclick = $("#menu-close").click(); >Page 1</a>
+                <a href="#" onclick = $("#menu-close").click(); >Page 1</a>
             </li>
             <li>
-                <a href="page2.php" onclick = $("#menu-close").click(); >Page 2</a>
+                <a href="#" onclick = $("#menu-close").click(); >Page 2</a>
             </li>
             <li>
-                <a href="page3.php" onclick = $("#menu-close").click(); >Page 3</a>
+                <a href="#" onclick = $("#menu-close").click(); >Page 3</a>
             </li>
             <li>
-                <a href="page4.php" onclick = $("#menu-close").click(); >Page 4</a>
+                <a href="#" onclick = $("#menu-close").click(); >Page 4</a>
             </li>
         </ul>
     </nav>
